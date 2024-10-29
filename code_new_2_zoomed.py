@@ -52,3 +52,5 @@ plt.xlim(150, 250)  # Adjust the x-axis limits as needed
 plt.ylim(lower_threshold - 10, upper_threshold + 10)  # Add some padding to the y-axis limits
 
 plt.show()
+
+print("result has been printed")
